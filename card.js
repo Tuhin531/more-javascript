@@ -21,9 +21,9 @@ console.log(myCost);  */
 
 const  products = [
     {name:'shirt', price: 1200, quantity:3 },
-    {name:'pant', price: 1000, quantity:4},
-    {name:'watch', price: 9000, quantity:8},
-    {name:'mobile', price: 82000, quantity:2},
+    {name:'pant', price: 1000, quantity:4 },
+    {name:'watch', price: 9000, quantity:8 },
+    {name:'mobile', price: 82000, quantity:2 },
 ];
 
 function totalCost(products){
